@@ -51,6 +51,7 @@ The project explores multiple CNN architectures and transfer learning approaches
 - Accuracy and loss plots (training/validation curves)  
 - Confusion matrix on test set  
 - Classification report (precision, recall, F1)
+<img width="953" height="542" alt="Evaluation Snip" src="https://github.com/user-attachments/assets/f5bd5851-6d87-460b-83d6-e01c1b0c7335" />
 
 ---
 
