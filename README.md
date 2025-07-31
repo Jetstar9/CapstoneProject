@@ -55,8 +55,6 @@ The project explores multiple CNN architectures and transfer learning approaches
 ---
 
 ## 📈 Results
-Include sample accuracy scores, confusion matrix screenshot, or performance comparison between models here if available.
+[Capstone Presentation - Facial Recognition.pdf](https://github.com/user-attachments/files/21536650/Capstone.Presentation.-.Facial.Recognition.pdf)
 
----
 
-## 📁 Folder Structure (optional)
